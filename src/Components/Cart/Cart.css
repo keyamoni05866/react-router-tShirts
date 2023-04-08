@@ -1,0 +1,31 @@
+.cart-container{
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+    height: 50%;
+    margin-left: 20px;
+    /* display: flex;
+    flex-direction: column; */
+}
+.container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.name{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.btn{
+   
+        padding: 10px 20px ;
+        /* width: 100%; */
+        /* margin-left: 15px;*/
+        margin-top: 20px; 
+        margin-right: 10px;
+        background-color: cadetblue;
+      border-radius: 10px;
+      font-size: 18px;
+      color: aliceblue;
+  }
